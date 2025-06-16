@@ -1,0 +1,24 @@
+[0.396s] Invoking command in '/Users/srijanaraut/Desktop/robo_project/robo_project_pkg': CONDA_PROMPT_MODIFIER=(ros) PYTHONPATH=/Users/srijanaraut/Desktop/robo_project/build/robo_project_pkg/prefix_override:/opt/homebrew/Caskroom/miniconda/base/envs/ros/lib/python3.11/site-packages/colcon_core/task/python/colcon_distutils_commands:/Users/srijanaraut/Desktop/robo_project/install/robo_project_pkg/lib/python3.11/site-packages:${PYTHONPATH} SHLVL=4 _=/opt/homebrew/Caskroom/miniconda/base/envs/ros/bin/env /opt/homebrew/Caskroom/miniconda/base/envs/ros/bin/python3.11 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/robo_project_pkg build --build-base /Users/srijanaraut/Desktop/robo_project/build/robo_project_pkg/build install --record /Users/srijanaraut/Desktop/robo_project/build/robo_project_pkg/install.log --single-version-externally-managed install_data
+[0.525s] running egg_info
+[0.531s] writing ../build/robo_project_pkg/robo_project_pkg.egg-info/PKG-INFO
+[0.532s] writing dependency_links to ../build/robo_project_pkg/robo_project_pkg.egg-info/dependency_links.txt
+[0.532s] writing requirements to ../build/robo_project_pkg/robo_project_pkg.egg-info/requires.txt
+[0.532s] writing top-level names to ../build/robo_project_pkg/robo_project_pkg.egg-info/top_level.txt
+[0.547s] reading manifest file '../build/robo_project_pkg/robo_project_pkg.egg-info/SOURCES.txt'
+[0.548s] writing manifest file '../build/robo_project_pkg/robo_project_pkg.egg-info/SOURCES.txt'
+[0.549s] running build
+[0.549s] running build_py
+[0.550s] copying robo_project_pkg/__init__.py -> /Users/srijanaraut/Desktop/robo_project/build/robo_project_pkg/build/lib/robo_project_pkg
+[0.550s] running install
+[0.553s] running install_lib
+[0.559s] running install_data
+[0.560s] copying launch/gz_launch.py -> /Users/srijanaraut/Desktop/robo_project/install/robo_project_pkg/share/robo_project_pkg/launch
+[0.561s] copying urdf/three_dof_arm.urdf -> /Users/srijanaraut/Desktop/robo_project/install/robo_project_pkg/share/robo_project_pkg/urdf
+[0.561s] copying resource/robo_project_pkg -> /Users/srijanaraut/Desktop/robo_project/install/robo_project_pkg/share/ament_index/resource_index/packages
+[0.562s] copying package.xml -> /Users/srijanaraut/Desktop/robo_project/install/robo_project_pkg/share/robo_project_pkg
+[0.562s] running install_egg_info
+[0.569s] removing '/Users/srijanaraut/Desktop/robo_project/install/robo_project_pkg/lib/python3.11/site-packages/robo_project_pkg-0.1.0-py3.11.egg-info' (and everything under it)
+[0.570s] Copying ../build/robo_project_pkg/robo_project_pkg.egg-info to /Users/srijanaraut/Desktop/robo_project/install/robo_project_pkg/lib/python3.11/site-packages/robo_project_pkg-0.1.0-py3.11.egg-info
+[0.571s] running install_scripts
+[0.586s] writing list of installed files to '/Users/srijanaraut/Desktop/robo_project/build/robo_project_pkg/install.log'
+[0.597s] Invoked command in '/Users/srijanaraut/Desktop/robo_project/robo_project_pkg' returned '0': CONDA_PROMPT_MODIFIER=(ros) PYTHONPATH=/Users/srijanaraut/Desktop/robo_project/build/robo_project_pkg/prefix_override:/opt/homebrew/Caskroom/miniconda/base/envs/ros/lib/python3.11/site-packages/colcon_core/task/python/colcon_distutils_commands:/Users/srijanaraut/Desktop/robo_project/install/robo_project_pkg/lib/python3.11/site-packages:${PYTHONPATH} SHLVL=4 _=/opt/homebrew/Caskroom/miniconda/base/envs/ros/bin/env /opt/homebrew/Caskroom/miniconda/base/envs/ros/bin/python3.11 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/robo_project_pkg build --build-base /Users/srijanaraut/Desktop/robo_project/build/robo_project_pkg/build install --record /Users/srijanaraut/Desktop/robo_project/build/robo_project_pkg/install.log --single-version-externally-managed install_data
